@@ -17,7 +17,7 @@
     /* FLEX elje */
     display: flex;
     justify-content: center; /* vízszintes */
-    align-items: top; /* függőleges*/
+    align-items: center; /* függőleges*/
     /* FLEX vége */
 }
 
